@@ -11,10 +11,10 @@ La misión de Digital Booking es crear un espacio en el que cualquier persona en
 
 # Equipo
 
-Agustina Pasqualis
-Daniel Fernando Martinez
-Nelson David Camacho
-Patricia Hunt
+- Agustina Pasqualis
+- Daniel Fernando Martinez
+- Nelson David Camacho
+- Patricia Hunt
 
 # Metodología de trabajo
 
